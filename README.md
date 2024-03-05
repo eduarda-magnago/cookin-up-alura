@@ -1,4 +1,4 @@
-# Projeto Cookin-Up
+# Projeto Cookin-Up 👩‍🍳
 
 Realizado no curso "Vue 3: entendendo componentes, diretivas e reatividade no framework" da Alura. O projeto tem a proposta de ajudar as pessoas terem mais opções e criatividade com suas receitas culinárias. Para isso, o usuário precisa escolher alguns ingredientes na página para que ele consiga reproduzir a receita.
 
