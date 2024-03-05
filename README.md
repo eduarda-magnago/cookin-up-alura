@@ -1,6 +1,6 @@
-# cookin-up
+# Projeto Cookin-Up
 
-This template should help get you started developing with Vue 3 in Vite.
+Realizado no curso "Vue 3: entendendo componentes, diretivas e reatividade no framework" da Alura. O projeto tem a proposta de ajudar as pessoas terem mais opções e criatividade com suas receitas culinárias. Para isso, o usuário precisa escolher alguns ingredientes na página para que ele consiga reproduzir a receita.
 
 ## Recommended IDE Setup
 
